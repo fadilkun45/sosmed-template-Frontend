@@ -13,6 +13,7 @@ baru di bagian frontend nya doang dan ini baru sebagian saja tapi setidak nya ud
 # how to run
 
 > npm install
+
 > npm run start 
 
 # contribute
